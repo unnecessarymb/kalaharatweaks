@@ -1,0 +1,13 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinBlockFalling"
+  ],
+  "package": "com.unnecessary.kalaharatweaks.mixin",
+  "refmap": "kalaharatweaks.mixin-refmap.json",
+  "required": true,
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "target": "@env(DEFAULT)"
+}

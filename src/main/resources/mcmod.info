@@ -1,0 +1,16 @@
+[
+{
+  "modid": "kalaharatweaks",
+  "name": "Kalahara Tweaks",
+  "description": "Knockoff sand physics and stuff.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["unnecessary"],
+  "credits": "Catgirls",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
